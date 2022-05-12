@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    
+    
+    <title>DigitalSolutionsclub</title>
+</head>
+
+<body>   
+      
+    <div class="Container">        
+      <nav class="Main-Nav">
+     <div class="Logo" href="/index.html" title="back to the first page on digitalsolutionsclub.com">         
+        <img src="/photos/resources/logo-mobile.svg" alt="Digital Solutionsclub.com web design agency - Logo" width="200" height="125"/>         
+     </div>           
+           <ul id="NavLinks" class="MainMenuList">
+             <li id = "Home" class="MainMenuItem"><a href="index.html" class="MainMenuLink"> Home </a>
+            </li>
+             <li class="MainMenuItem"><a href="#" class="MainMenuLink">Services &blacktriangledown;</a>
+                <ul class="SubMenu">
+                    <li><a href="/web design.html" class="SubMenuLink">Web development </a>
+                        <li><a href="/ecommerce.html.html" class="SubMenuLink">Ecommerce </a>
+                            <li><a href="/seo.html.html" class="SubMenuLink">SEO </a>
+                                <li><a href="/logo design.html.html" class="SubMenuLink">Logo design </a>
+                                      <li><a href="/social media services.html" class="SubMenuLink">Social media services </a>
+                </ul>
+            </li>
+             <li class="MainMenuItem"><a href="blog.html.html" class="MainMenuLink"> Blog</a>
+            </li>
+             <li class="MainMenuItem"><a href="/about.html" class="MainMenuLink"> About</a>
+            </li>
+             <li class="MainMenuItem"><a href="/contact.html.html" class="MainMenuLink"> Contact</a>
+            </li>     
+          <div class="ButtonContainer">
+                  <button class="btn1"><a href="tel: 0040726194175">Get in touch</a></button>
+                  <button class="btn1"><a href="email: contact@digitalsolutionsclub.ro">New project?</a></button>
+              </a>
+              </div>          
+          </ul>
+          <button id="NavToggleBtn" class="Nav-toggle">
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+          </button>          
+     </nav>                 
+     <span>           
+         <br>  
+         <span id="particles-js" class="particles"> </span>              
+         <div class="Description">             
+             <h1 class="DescriptionText"> We're A </h1>
+             <strong class="highlight">
+                 Digital Agency
+             </strong>
+             <h1>  Designing </h1>
+            <hr>         
+         <h2> unique sites</h2>
+     </span>           
+          <div class="container">
+             <a href="index.html"> <span>Services</span></a>
+             <a href="index.html"> <span>About us</span></a>
+         </div>
+          <div>
+         <h2 class="H2">
+             <h2> To grow your <strong class="highlight2">Business</strong>             
+         </h2>
+         <p class="headerText"> Whether you need an effective site to convert visitors  into customers or to generate leads for your sales team, for sure we can help you.</p>
+     </div>           
+     <div class="Side-bar">
+         <div class="social-links">
+             <img src="/photos/resources/akar-icons_facebook-fill.png" alt="facebook">
+             <img src="/photos/resources/akar-icons_instagram-fill.png" alt="facebook">
+             <img src="/photos/resources/ant-design_twitter-circle-filled.png" alt="facebook">
+             <img src="/photos/resources/dashicons_email-alt.png" alt="facebook">
+         </div>        
+     </div>     
+     </div> 
+</div> 
+     <br>              
+       <section class="service">
+          <div class="content-box">              
+                  <h2 class="servicesTittle">Our <strong class="highlight2">
+                 Services
+             </strong></h2>
+                  <div class="row-service">
+                  <div id="col1" class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-cogs"></i>
+                      </div>
+                      <h3>Web <span>Development</span></h3>
+                      <p>Every site we build is unique, has a personalized design and truly represents the brand of the business. We pay attention to the smallest details as well as the presentation of your products and services in the best possible way. Request a personalized offer now for your needs.</p>
+                  </div>
+                  <div id="col2" class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-cart-arrow-down"></i>
+                      </div>
+                      <h3>E<span>commerce</span></h3>
+                      <p>We create personalized online stores that inspire trust and generate sales. Even the best products will not sell if your site lacks credibility, so all of our ecommerce sites are completely secure and strategically designed for an excellent user experience that gives them confidence.</p>
+                  </div>
+                  <div id="col3" class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-wordpress"></i>
+                      </div>
+                      <h3>W<span>ordPress</span></h3>
+                      <p>We are experts at WordPress, from integrations, customisation and optimisation, through to bespoke plug-in development. We do not work from templates - everything is designed and built completely from scratch so your site looks and works perfectly and engages your audience.</p>
+                  </div>
+                  </div>
+                  <br>
+                  <div class="row-service">
+                  <div id="col4"class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-paint-brush"></i>
+                      </div>
+                      <h3>Logo<span>Design</span></h3>
+                      <p> Build your brand starting with a custom logo, it can be represented by a symbol and a name, or next to the business slogan. The logo must represent the brand, the image and sometimes indicate the field of activity. Depending on the field of activity.</p>
+                  </div>
+                  <div id="col5" class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-line-chart"></i>
+                      </div>
+                      <h3>S<span> E </span>O</h3>
+                      <p>Search engine optimization or SEO means improving your position on search engines such as Google, the most popular. SEO optimization in online commerce can increase the profit of your business. Request a consultation now to discuss your online marketing plan.</p>
+                  </div>
+                  <div id="col6" class="col-md-3 text-center">
+                      <div class="icon">
+                          <i class="fa fa-meetup"></i>
+                      </div>
+                      <h3>Social<span>Media </span>Services</h3>
+                      <p>Digital marketing is reliant on compelling content, targeted messaging, and engaging campaigns.We will design and execute effective digital marketing campaigns that will increase your visibility and make sure the right people are finding your business.</p>
+                  </div>
+                </div>
+            </div>
+       </section>  
+       <br>
+       <h2 class="AboutUstext">About <strong class="highlight2">us</strong> </h2> 
+    <div class="AboutUs">  
+        <div class="imgExperience">
+               <img src="/photos/about us.jpg" width="550" height="406" alt="our experience">
+    </div>         
+    <div class="experience">      
+    <span class="experiencetext">
+            <h1>We have 10+ </h1> 
+            <strong class="highlight">
+                   Years
+             </strong>
+            <h1>of experience</h1>  
+            <br>             
+        <p>   We are an award winning digital marketing agency based in Bucharest.
+            With over 10 years of experience in all things digital, we focus on getting results! We have been commended on our stunning website design process and our ability to consistently rank our clients on Google so they can gets noticed & beat their competition.</p></span>
+                <br>  
+   <button class="btn2">knowmore &rarr; <a href="/about.html"></a></button>      
+    </div>  
+    </div> 
+    <div class="ProjectsTittle">
+        <div class="LatestProjects">
+            <h2>Our latest <strong class="highlight2">
+                 Projects
+             </strong></h2>
+        </div>        
+        <br>        
+    </div>
+    <section class="Thebox">
+            <div class="box">    
+                <h2 class="Theboxtext"> Latest Projects</h2>
+        <span style="--i:1"><img src="/photos/brussels.png" width="350" height="250"><a href="https://brusselsfreetourbyrichi.com/"></a></span> 
+            <span style="--i:2"><img src="/photos/av-mediere.png" ><a href="https://av-mediere.ro/"></a></span>         
+             <span style="--i:3"><img src="/photos/greenheaven.ro.png" > <a href="https://greenheaven.ro/"></a></span> 
+             <span style="--i:4"><img src="/photos/av-antoniam.ro.png" ><a href="https://avocat-antoniam.ro/"></a></span> 
+             <span style="--i:5"><img src="/photos/la maison.png" > <a href="https://www.lamaisondemoise.ro/"></a></span>  
+            <span style="--i:6"><img src="/photos/emacapitanescu.blog.png" > <a href="https://emacapitanescu.blog/"></a></span>  
+             <span style="--i:7"><img src="/photos/greenheaven.ro.png" ><a href="https://greenheaven.ro/"></a></span>   
+             <span style="--i:8"><img src="/photos/casa.ani.png" ><a href="https://casaani.ro/"></a></span>       
+    </div>    
+    </section>  
+    <div class="projectsBtn">   
+    <a href="index.html"> <span>all projects</span></a>      
+    </div> 
+     <div class="Project">
+         <img src="/photos/vecteezy_business-team-meeting-photo-professional-investor-working__679.jpg" width="650" height="350" alt="work with digitalsolutionsclub">
+         <span> 
+              <h2>Have a <strong class="highlight2">
+                 Project?
+             </strong></h2>
+             <h2 class="work">work with us</h2>
+    </span>          
+        <p>Each site we build is unique, has a custom design and truly represents the brand of the business. 
+We pay attention to the smallest details as well as the presentation of your products and services in the best possible way. 
+        </p>        
+    </div>
+    <footer class="FooterContainer">
+    <div class="Footer">
+        <div class="row">
+            <div class="footer-col">
+             <h4>News</h4>
+             <ul>
+                 <li><a href="#">blog</a></li>
+                 <li><a href="#">new projects</a></li>
+                 <li><a href="#">roadmap</a></li>
+                 <li><a href="#">FAQ</a></li>                 
+            </ul>         
+             </div>    
+           <div class="footer-col">
+                <h4>services</h4>
+         <ul>
+             <li class="FooterMenuItem"><a href="#"  > Services </a>
+            </li>
+             <li class="FooterMenuItem"><a href="#" >Web development </a>
+            </li>
+             <li class="FooterMenuItem"><a href="#" > SEO</a>
+            </li>
+             <li class="FooterMenuItem"><a href="#" > Social Media Services</a>
+            </li>
+             <li class="FooterMenuItem"><a href="#" > Logo design</a>
+            </li>
+         </ul>
+         </div>
+         <div class="footer-col">
+             <h4>follow us</h4>             
+                 <div class="social-Links">
+             <i class="fa fa-facebook-official"></i>
+             <i class="fa fa-instagram"></i>
+            <i class="fa fa-envelope"></i>
+             <i class="fa fa-twitter"></i>            
+                 </div>
+         </div>         
+         <div class="footer-col">
+             <h4>Usefull Links</h4>
+             <ul>
+                 <li><a href="#">Contact</a></li>
+                 <li><a href="#">Privacy Policy</a></li>
+                 <li><a href="#">Phone: +40726194175</a></li>
+                 <li><a href="#">Privacy policy</a></li>                 
+            </ul>         
+             </div> 
+             </div>           
+            </div>  
+            <br>           
+            <p class="bottomtext"> Web Design & Online Marketing</p> 
+            <p class="bottomtext">© 2021 DigitalSolutionsclub all rights reserved </p>            
+</footer>
+    <a class="GoTopBtn" href="index.html"> <i class="fa fa-arrow-up"></i> </a>    
+    
+    <script src="/js/particles.js"></script>
+    <script src="/js/app.js"></script>    
+    <script src="app.js"></script>
+</body>
+</html>
